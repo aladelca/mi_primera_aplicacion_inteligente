@@ -205,8 +205,7 @@ El proyecto incluye un **Jupyter Notebook** (`notebook.ipynb`) con:
 ## 👨‍💻 Autor
 
 **Carlos Adrián Alarcón Delgado**
-- Estudiante de Cibertec
-- Proyecto de Inteligencia Artificial
+- Profesor de Cibertec
 - Email: alarcon.adrianc@gmail.com
 
 ## 📄 Licencia
